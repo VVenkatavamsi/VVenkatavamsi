@@ -1,165 +1,791 @@
-<h1 align="center">Hi 👋, I'm Venkata Vamsi </h1>
-<h3 align="center">A Cloud & DevOps fresher from India</h3>
+<!-- ========================================================= -->
+
+<!--                 VENKATA VAMSI • DEVOPS                   -->
+
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00C7F7&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Enthusiast;B.Tech+CSE+Graduate+%272025';Learning+AWS+%7C+Kubernetes+%7C+IaC;Open+to+Cloud+%26+DevOps+Opportunities" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:2563EB,100:7C3AED&text=VENKATA%20VAMSI&fontColor=FFFFFF&fontSize=52&fontAlignY=45&desc=JUNIOR%20DEVOPS%20ENGINEER%20%7C%20CLOUD%20%7C%20AUTOMATION&descAlignY=68&descSize=17&animation=fadeIn" width="100%" alt="Venkata Vamsi Header"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VVenkatavamsi&label=Profile%20Views&color=00c7f7&style=flat-square" alt="VVenkatavamsi" />
-  <img src="https://img.shields.io/github/followers/VenkataVamsiV?label=Followers&style=social" alt="GitHub Followers" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=850&lines=Cloud+Infrastructure+%7C+CI%2FCD+%7C+Kubernetes;AWS+%7C+Azure+%7C+GCP;Terraform+%7C+Ansible+%7C+Docker;Jenkins+%7C+GitHub+%7C+Maven;Python+%7C+Bash+%7C+Linux;Build+it.+Automate+it.+Deploy+it." alt="Typing SVG"/>
+</p>
+
+<p align="center">
+<a href="mailto:venkatavamsi.v@keplabs.in">
+<img src="https://img.shields.io/badge/Email-venkatavamsi.v%40keplabs.in-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
+<a href="tel:6302687396">
+<img src="https://img.shields.io/badge/Call-6302687396-0F172A?style=for-the-badge&logo=phone&logoColor=22C55E" alt="Phone"/>
+</a>
+<a href="https://linkedin.com/in/venkata-vamsi-vinjam-6656553a3">
+<img src="https://img.shields.io/badge/LinkedIn-Venkata%20Vamsi-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/VenkataVamsiV">
+<img src="https://img.shields.io/badge/GitHub-VenkataVamsiV-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=VenkataVamsiV&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/VenkataVamsiV?style=flat-square&label=FOLLOWERS&color=7C3AED" alt="Followers"/>
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-I'm a recent **B.Tech Computer Science graduate** passionate about **Cloud Computing** and **DevOps practices**. Currently diving deep into the world of automation, infrastructure as code, and cloud-native technologies.
-
-- 🎓 **B.Tech CSE Graduate** (2025)
-- ☁️ **Currently working on**: Building hands-on DevSecOps projects to master CI/CD pipelines, containerization, and cloud platforms
-- 💡 **Looking for**: Entry-level Cloud Engineer / DevOps Engineer roles where I can contribute and grow
-- 📧 **Email**: venkatavamsi.v@keplabs.in
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
-### Cloud Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-### DevOps Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
-
-### Version Control & Build Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-</p>
-
-### Databases & OS
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-## 🚀 Tier 3 Projects
+# 🧭 ENGINEERING PROFILE
 
 <table>
-  <tr>
-    <td width="33%">
-      <h3 align="center">End-to-End DevOps CI/CD Pipeline</h3>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-        <p>
-          <strong>Complete CI/CD pipeline</strong> using Jenkins, Docker, and GitHub. Automated build, test, and deployment of a sample Java application with Maven. Includes webhook integration for automatic triggers.
-        </p>
-        <p>
-          ✅ Jenkins Pipeline as Code<br>
-          ✅ Docker containerization<br>
-          ✅ GitHub webhook integration
-        </p>
-      </div>
-    </td>
-    <td width="33%">
-      <h3 align="center">AWS 3-Tier Architecture Deployment</h3>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-        <p>
-          <strong>Scalable web application</strong> deployed on AWS with separate tiers for web, application, and database. Implemented auto-scaling and load balancing for high availability.
-        </p>
-        <p>
-          ✅ EC2 with auto-scaling groups<br>
-          ✅ Application Load Balancer<br>
-          ✅ RDS MySQL database tier
-        </p>
-      </div>
-    </td>
-    <td width="33%">
-      <h3 align="center">Microservices with Kubernetes</h3>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
-        <p>
-          <strong>Containerized microservices</strong> deployed on Kubernetes cluster. Implemented service discovery, config maps, and persistent volumes for stateful applications.
-        </p>
-        <p>
-          ✅ Pods, Services, Deployments<br>
-          ✅ ConfigMaps & Secrets<br>
-          ✅ Persistent Volume Claims
-        </p>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td width="52%" valign="top">
+
+### 👨‍💻 About Me
+
+I'm **Venkata Vamsi**, a **Junior DevOps Engineer** focused on cloud infrastructure, automation, CI/CD and containerized environments.
+
+🎓 **B.Tech Computer Science Engineering — 2025**
+
+💼 **Junior DevOps Engineer — Keshava Elite Projects**
+
+☁️ Cloud Infrastructure
+
+🔄 CI/CD Automation
+
+🐳 Containers & Kubernetes
+
+🏗️ Infrastructure as Code
+
+🐧 Linux & Scripting
+
+🤖 AI & Prompt Engineering
+
+</td>
+
+<td width="48%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320" alt="Developer Animation"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CLOUD_ENGINEERING-2563EB?style=for-the-badge" alt="Cloud Engineering"/>
+<img src="https://img.shields.io/badge/DEVOPS-7C3AED?style=for-the-badge" alt="DevOps"/>
+<img src="https://img.shields.io/badge/AUTOMATION-0891B2?style=for-the-badge" alt="Automation"/>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📚 What I'm Learning (Fresher Level)
-
-| Skill | Progress | Status |
-|-------|----------|--------|
-| **AWS Basics** (EC2, S3, IAM) | ████████░░ 80% | Learning |
-| **Docker** (Containers, Images, Compose) | ███████░░░ 70% | Practicing |
-| **Kubernetes** (Pods, Services, Deployments) | ██████░░░░ 60% | Learning |
-| **Jenkins** (CI/CD, Pipelines) | ██████░░░░ 60% | Practicing |
-| **Ansible** (Playbooks, Roles) | █████░░░░░ 50% | Learning |
-| **Linux Commands & Scripting** | ████████░░ 80% | Comfortable |
-| **Python for DevOps** | ███████░░░ 70% | Practicing |
-| **Git & GitHub** | █████████░ 90% | Comfortable |
-
----
-
-## 🎯 Current Goals
-
-- ✅ Master AWS Services (EC2, S3, VPC, IAM, Lambda)
-- ✅ Build end-to-end DevOps projects
-- ✅ Contribute to open-source DevOps tools
-- ✅ Earn AWS Certified Cloud Practitioner certification
-- ✅ Network with Cloud & DevOps professionals
-
----
-
-## 🤝 Connect With Me
+# ☁️ CLOUD MATRIX
 
 <p align="center">
-  <a href="https://linkedin.com/in/venkata-vamsi-vinjam-6656553a3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:venkatavamsiv2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/VenkataVamsiV" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://medium.com/@your-medium-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70" alt="AWS"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="70" alt="Azure"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="70" alt="GCP"/>
+</p>
+
+<table align="center">
+<tr>
+<th>☁️ Platform</th>
+<th>Level</th>
+<th>Focus</th>
+</tr>
+
+<tr>
+<td><b>AWS</b></td>
+<td>Working Knowledge</td>
+<td>EC2 • S3 • IAM • VPC • Load Balancing</td>
+</tr>
+
+<tr>
+<td><b>Azure</b></td>
+<td>Intermediate</td>
+<td>Cloud Infrastructure • Services • Deployment</td>
+</tr>
+
+<tr>
+<td><b>GCP</b></td>
+<td>Basic</td>
+<td>Cloud Fundamentals • Core Services</td>
+</tr>
+</table>
+
+---
+
+# 🔧 DEVOPS TOOLCHAIN
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,maven,docker,kubernetes,helm,terraform,ansible&theme=dark" width="650" alt="DevOps Tools"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/>
+
+</p>
+
+---
+
+# 🧰 ENGINEERING CAPABILITY MATRIX
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="62" alt="Docker"/>
+
+### 📦 CONTAINERIZATION
+
+**Docker**
+
+Images
+Containers
+Volumes
+Networks
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="62" alt="Kubernetes"/>
+
+### ☸️ ORCHESTRATION
+
+**Kubernetes**
+
+Pods
+Deployments
+Services
+ConfigMaps
+Secrets
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="62" alt="Terraform"/>
+
+### 🏗️ INFRASTRUCTURE
+
+**Terraform**
+
+IaC
+Providers
+Variables
+Modules
+State
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="62" alt="Ansible"/>
+
+### ⚙️ AUTOMATION
+
+**Ansible**
+
+Playbooks
+Configuration
+Provisioning
+Automation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="62" alt="Jenkins"/>
+
+### 🔄 DELIVERY
+
+**Jenkins**
+
+Pipelines
+CI/CD
+Webhooks
+Automation
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="62" alt="GitHub"/>
+
+### 🌿 VERSION CONTROL
+
+**Git + GitHub**
+
+Branches
+Merging
+Pull Requests
+Workflows
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="62" alt="Linux"/>
+
+### 🐧 SYSTEMS
+
+**Linux**
+
+Shell
+Processes
+Permissions
+Networking
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="62" alt="Python"/>
+
+### 🐍 SCRIPTING
+
+**Python + Bash**
+
+Automation
+Utilities
+CLI Tools
+Scripting
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏗️ INFRASTRUCTURE ARCHITECTURE
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/01%20TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/02%20CLOUD-2563EB?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/03%20ANSIBLE-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
+
+</p>
+
+<p align="center">⬇</p>
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" alt="Docker"/>
+
+### 📦 CONTAINER
+
+Docker
+
+Build
+Package
+Ship
+
+</td>
+
+<td align="center" width="8%">
+
+### →
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" alt="Kubernetes"/>
+
+### ☸️ ORCHESTRATE
+
+Kubernetes
+
+Deploy
+Scale
+Manage
+
+</td>
+
+<td align="center" width="8%">
+
+### →
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="60" alt="Helm"/>
+
+### ⎈ RELEASE
+
+Helm
+
+Package
+Version
+Release
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+
+<b>Terraform → Cloud → Ansible → Docker → Kubernetes → Helm</b>
+
+</p>
+
+---
+
+# 🔄 CI/CD DELIVERY FLOW
+
+<table align="center">
+<tr>
+
+<td align="center" width="14%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="58" alt="GitHub"/>
+
+### 01
+
+**SOURCE**
+
+GitHub
+
+Code
+Branch
+Pull Request
+
+</td>
+
+<td align="center" width="5%">
+
+### ➜
+
+</td>
+
+<td align="center" width="14%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="58" alt="Jenkins"/>
+
+### 02
+
+**BUILD**
+
+Jenkins
+
+Pipeline
+Trigger
+Automation
+
+</td>
+
+<td align="center" width="5%">
+
+### ➜
+
+</td>
+
+<td align="center" width="14%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="58" alt="Maven"/>
+
+### 03
+
+**TEST & PACKAGE**
+
+Maven
+
+Build
+Test
+Package
+
+</td>
+
+<td align="center" width="5%">
+
+### ➜
+
+</td>
+
+<td align="center" width="14%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="58" alt="Docker"/>
+
+### 04
+
+**CONTAINERIZE**
+
+Docker
+
+Image
+Registry
+Version
+
+</td>
+
+<td align="center" width="5%">
+
+### ➜
+
+</td>
+
+<td align="center" width="14%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="58" alt="Kubernetes"/>
+
+### 05
+
+**DEPLOY**
+
+Kubernetes
+
+Pods
+Services
+Scale
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">⬇️</p>
+
+<table align="center">
+<tr>
+
+<td align="center" width="30%">
+
+### ☁️ CLOUD
+
+<b>AWS / Azure / GCP</b>
+
+Infrastructure
+Compute
+Networking
+
+</td>
+
+<td align="center" width="8%">
+
+### ➜
+
+</td>
+
+<td align="center" width="30%">
+
+### 📊 OPERATE
+
+<b>Monitor → Troubleshoot → Improve</b>
+
+Reliability
+Automation
+Optimization
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/CONTINUOUS_INTEGRATION-2563EB?style=for-the-badge" alt="Continuous Integration"/>
+<img src="https://img.shields.io/badge/CONTINUOUS_DELIVERY-7C3AED?style=for-the-badge" alt="Continuous Delivery"/>
+<img src="https://img.shields.io/badge/AUTOMATION-0891B2?style=for-the-badge" alt="Automation"/>
+
+</p>
+
+---
+
+# 🚀 PROJECT LAB
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔄 END-TO-END CI/CD
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=github,jenkins,maven,docker&theme=dark" width="225" alt="CI/CD Stack"/>
+</p>
+
+**Pipeline**
+
+`GitHub` → `Jenkins` → `Maven` → `Docker` → `Deploy`
+
+**Highlights**
+
+✅ Pipeline as Code
+✅ Webhook Integration
+✅ Automated Builds
+✅ Containerization
+✅ Deployment Automation
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ AWS 3-TIER ARCHITECTURE
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,mysql,linux&theme=dark" width="175" alt="AWS Stack"/>
+</p>
+
+**Architecture**
+
+`Load Balancer` → `Application` → `Database`
+
+**Highlights**
+
+✅ VPC
+✅ EC2
+✅ ALB
+✅ Auto Scaling
+✅ RDS MySQL
+✅ Security Groups
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ☸️ KUBERNETES MICROSERVICES
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm&theme=dark" width="195" alt="Kubernetes Stack"/>
+</p>
+
+**Architecture**
+
+`Docker` → `Kubernetes` → `Services` → `Scale`
+
+**Highlights**
+
+✅ Pods
+✅ Deployments
+✅ Services
+✅ ConfigMaps
+✅ Secrets
+✅ PVC
+✅ Helm
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏗️ TERRAFORM INFRASTRUCTURE
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=terraform,aws&theme=dark" width="145" alt="Terraform Stack"/>
+</p>
+
+**Workflow**
+
+`Code` → `Plan` → `Apply` → `Infrastructure`
+
+**Highlights**
+
+✅ Providers
+✅ Variables
+✅ Modules
+✅ State Management
+✅ Resource Provisioning
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💼 CURRENT ROLE
+
+<table>
+<tr>
+
+<td align="center" width="14%">
+<img src="https://img.icons8.com/fluency/96/briefcase.png" width="65" alt="Work"/>
+</td>
+
+<td>
+
+### Junior DevOps Engineer — Keshava Elite Projects
+
+Working with:
+
+`AWS` `Azure` `Docker` `Kubernetes` `Jenkins` `Terraform` `Ansible` `Git` `Linux` `Python`
+
+Focused on **cloud infrastructure, CI/CD automation, containerization, infrastructure automation and operational engineering**.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🤖 AI + PROMPT ENGINEERING
+
+<table align="center">
+<tr>
+
+<td align="center" width="28%">
+
+<img src="https://img.icons8.com/fluency/120/artificial-intelligence.png" width="95" alt="Artificial Intelligence"/>
+
+### 🧠 AI
+
+**Generative AI**
+
+Exploring AI-assisted
+developer workflows
+
+</td>
+
+<td align="center" width="8%">
+
+# +
+
+</td>
+
+<td align="center" width="28%">
+
+<img src="https://img.icons8.com/fluency/120/idea.png" width="95" alt="Prompt Engineering"/>
+
+### 💡 PROMPT ENGINEERING
+
+**Beginner**
+
+Prompt design
+AI productivity
+Problem solving
+
+</td>
+
+<td valign="middle" width="36%">
+
+### Exploring AI for DevOps
+
+🔹 Automation assistance
+🔹 Troubleshooting
+🔹 Documentation
+🔹 Script generation
+🔹 Developer productivity
+🔹 Learning & research
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20%2B%20DEVOPS-EXPLORING-7C3AED?style=for-the-badge" alt="AI + DevOps"/>
+<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-BEGINNER-2563EB?style=for-the-badge" alt="Prompt Engineering"/>
+
+</p>
+
+---
+
+# 📊 GITHUB ENGINEERING METRICS
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VenkataVamsiV&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataVamsiV&layout=compact&theme=github_dark&hide_border=true" width="40%" alt="Top Languages"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=VenkataVamsiV&theme=github-dark-blue&hide_border=true" width="62%" alt="GitHub Streak"/>
+</p>
+
+---
+
+# 🎯 2026 ROADMAP
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/01-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
+→
+<img src="https://img.shields.io/badge/02-KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+→
+<img src="https://img.shields.io/badge/03-TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+→
+<img src="https://img.shields.io/badge/04-DEVSECOPS-DC2626?style=for-the-badge" alt="DevSecOps"/>
+→
+<img src="https://img.shields.io/badge/05-OBSERVABILITY-0891B2?style=for-the-badge" alt="Observability"/>
+
+</p>
+
+---
+
+# 📡 CONNECT WITH ME
+
+<p align="center">
+
+<a href="mailto:venkatavamsi.v@keplabs.in">
+<img src="https://img.shields.io/badge/venkatavamsi.v%40keplabs.in-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
+
+<a href="tel:6302687396">
+<img src="https://img.shields.io/badge/+91%206302687396-111827?style=for-the-badge&logo=phone&logoColor=22C55E" alt="Phone"/>
+</a>
+
+<a href="https://linkedin.com/in/venkata-vamsi-vinjam-6656553a3">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/VenkataVamsiV">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=100&section=footer" width="100%" alt="Footer"/>
+
+</p>
+
+<p align="center">
+<b>☁️ CLOUD &nbsp; • &nbsp; ⚙️ AUTOMATE &nbsp; • &nbsp; 🚀 DEPLOY &nbsp; • &nbsp; ☸️ ORCHESTRATE</b>
+</p>
+
+<p align="center">
+<i>Turning infrastructure into code and ideas into automation.</i>
 </p>
