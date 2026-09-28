@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/vvvamsi">
     <img src="https://img.shields.io/badge/LinkedIn-Vamsi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:vamsi.keplabs@gmail.com">
+  <a href="mailto:venkatavamsi.v@keplabs.in">
     <img src="https://img.shields.io/badge/Email-vamsi.keplabs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -30,7 +30,7 @@ I enjoy building hands-on projects around **Linux, Git, CI/CD, containers, Infra
 * 🌱 Currently learning **Kubernetes, Terraform, and advanced CI/CD practices**
 * 🛠️ Working with **Linux, Git, Jenkins, Docker, Ansible, Terraform, AWS, Prometheus, and Grafana**
 * 💬 Interested in **DevOps, Cloud, CI/CD, Infrastructure as Code, and Observability**
-* 📫 **[vamsi.keplabs@gmail.com](mailto:vamsi.keplabs@gmail.com)**
+* 📫 **[venkatavamsi.v@keplabs.in](mailto:venkatavamsi.v@keplabs.in)**
 
 ---
 
